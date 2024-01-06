@@ -1,1 +1,4 @@
 Developed an NLP-based predictive model on Databricks, which employed PySpark to analyze and extract useful insights from 9TB of Amazon review data to identify helpful reviews for end customers.
+
+Competition Link: https://www.kaggle.com/competitions/mma2024b/overview
+ 
