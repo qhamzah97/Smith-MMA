@@ -1,1 +1,4 @@
+EMC - Executive Marketing Challenge
 Developed a predictive model for a superstore's year-end sale gold membership offer, leveraging exploratory data analysis, feature engineering, and classification models (logistic regression, RF, SVM, Xgboost, NN). Achieved optimal model performance through hyperparameter tuning, utilizing ROC-AUC, precision, recall, and F1-score as evaluation metrics, while also evaluating the different model’s side-by-side to determine which would net the most revenue for the superstore.
+
+Problem: https://www.kaggle.com/datasets/ahsan81/superstore-marketing-campaign-dataset
